@@ -7,6 +7,6 @@ There are 4 files:
 
 2- requirements : Contains all liberaries that will need for scraping, like Pandas.
 
-3- init.sh : shell script that performs several steps to add a new repository and install Python 3.9 on an Ubuntu-based system. 
+3- init.sh : shell script that performs several steps to add a new repository and install Python 3.9 on an Ubuntu-based system in AWS EC2. 
 
 4- project_webScraping_Group2 : This file contains the result of websraping, so you will find all data that we scpraped orgines in appropriate columns.
